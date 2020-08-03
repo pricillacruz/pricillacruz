@@ -23,6 +23,7 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 <br>
 <br>
 <br>
+<br>
 
 # Linguagens e ferramentas :octocat:
 
@@ -49,6 +50,8 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 <br>
 <br>
 
+# Meu Github
+
 <a href="https://github.com/pricillabomanni/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pricillabomanni&layout=compact&theme=tokyonight&show_icons=true" alt="Pricilla Souza's github stats" />
 </a>
@@ -59,6 +62,7 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 <br>
 <br>
 <br>
+
 <p align="center">
-Designed with ❤️ by <a href="https://.github.io">Pricilla Souza</a>
+Desenvolvido com ❤️ por <a href="https://.github.io">Pricilla Souza</a>
 </p>
