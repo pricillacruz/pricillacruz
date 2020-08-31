@@ -39,13 +39,11 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/w2yWCeQ.jpg"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/tGalKhh.png"></code>
-<code><img width="40" height="40" src="https://i.imgur.com/m0AnP3y.png"></code>
-<code><img width="50" height="50" src="https://i.imgur.com/NKavaOJ.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/9wklHL4.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/4ukQmuf.jpgng"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/8oFBDpq.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/uW8XlJV.png"></code>
-<code><img width="35" height="35" src="https://i.imgur.com/8F1Zt0e.png"></code>
+
 
 <br>
 <br>
