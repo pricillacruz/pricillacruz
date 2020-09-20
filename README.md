@@ -13,10 +13,10 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 
 # Redes :octocat:
 
-<a target="_blank" href="https://www.linkedin.com/in/pricilla-souza/">
+<a href="https://www.linkedin.com/in/pricilla-souza/" target="_blank">
   <img align="left" alt="LinkdeIN" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/pricillacruzs/">
+<a href="https://www.instagram.com/pricillacruzs/" target="_blank" >
   <img align="left" alt="Instagram" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
