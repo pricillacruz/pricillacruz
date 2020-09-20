@@ -62,5 +62,5 @@ da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Ar
 <br>
 
 <p align="center">
-Desenvolvido com ❤️ por <a href="https://.github.io">Pricilla Souza</a>
+Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/pricilla-souza/">Pricilla Souza</a>
 </p>
