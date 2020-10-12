@@ -1,11 +1,12 @@
 # PRICILLA SOUZA  :octocat:
 
 
-<img src="https://i.imgur.com/FJMLwnA.jpg" width=1000>
+<!-- <img src="https://i.imgur.com/FJMLwnA.jpg" width=1000> -->
 
 <p align="justify">
-Amo os animais e adoro viajar. Quero fazer a diferença no modo de vida das pessoas e no desenvolvimento 
-da sociedade, através de inovações tecnológicas, com um olhar de cidadã, Arquiteta e Urbanista. Procurando sempre evoluir como humana e profissional.
+Sou uma paulistana arretada, filha de nordestinos, amo os animais, adoro viajar, arrisco cantar no chuveiro, gosto de estar com família e amigos.
+Quero fazer a diferença no modo de vida das pessoas e no desenvolvimento da sociedade, através de inovações tecnológicas, com um olhar de cidadã, desenvolvedora, Arquiteta e Urbanista. E para atingir meus objetivos meu maior aliado é amar estudar.
+
 </p>
 
 <br>
