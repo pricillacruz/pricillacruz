@@ -5,10 +5,11 @@
 
 <p align="justify">
 Atuo como Product Manager Sr com experiência na definição de estratégias, construção de roadmaps e liderança de ciclos completos de produto em ambientes de tecnologia. Conectando objetivos de negócio às necessidades dos usuários, garantindo entregas que geram valor, eficiência financeira e crescimento sustentável.
-
+<br>
 Tenho foco na estruturação de visões de produto, condução de discovery contínuo, priorização orientada por dados e colaboração com times multidisciplinares. Tenho forte atuação em alinhamento estratégico, análise de métricas, gestão de stakeholders e evolução de processos para aumentar performance e maturidade de produto.
-
+<br>
 Sou movida por desafios, aprendizado contínuo e pela construção de soluções tecnológicas que ampliem impacto e qualidade para usuários e negócios.Entre todas as minhas competências e temas com quais atuo as mais frequentes são:
+  <br>
 • Estratégia e visão de produto
 • Discovery, validação e análise de dados
 • Priorização e gestão de roadmap
