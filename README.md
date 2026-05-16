@@ -12,6 +12,7 @@ Tenho foco na estruturação de visões de produto, condução de discovery cont
 <br>  
 Sou movida por desafios, aprendizado contínuo e pela construção de soluções tecnológicas que ampliem impacto e qualidade para usuários e negócios.Entre todas as minhas competências e temas com quais atuo as mais frequentes são:
   <br>
+  <br>
 • Estratégia e visão de produto
   <br>
 • Discovery, validação e análise de dados
