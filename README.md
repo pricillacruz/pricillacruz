@@ -46,15 +46,6 @@ Quero fazer a diferença no modo de vida das pessoas e no desenvolvimento da soc
 <br>
 <br>
 
-# Meu Github
-
-<a href="https://github.com/pricillabomanni/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pricillabomanni&layout=compact&theme=tokyonight&show_icons=true" alt="Pricilla Souza's github stats" />
-</a>
-<a href="https://github.com/pricillabomanni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricillabomanni&layout=compact&theme=tokyonight&show_icons=true" />
-</a>
-
 <br>
 <br>
 <br>
