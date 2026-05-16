@@ -4,8 +4,22 @@
 <!-- <img src="https://i.imgur.com/FJMLwnA.jpg" width=1000> -->
 
 <p align="justify">
-Sou uma paulistana arretada, filha de nordestinos, amo os animais, adoro viajar, arrisco cantar no chuveiro, gosto de estar com família e amigos.
-Quero fazer a diferença no modo de vida das pessoas e no desenvolvimento da sociedade, através de inovações tecnológicas, com um olhar de cidadã, desenvolvedora, Arquiteta e Urbanista. E para atingir meus objetivos meu maior aliado é amar estudar.
+Atuo como Product Manager Sr com experiência na definição de estratégias, construção de roadmaps e liderança de ciclos completos de produto em ambientes de tecnologia. Conectando objetivos de negócio às necessidades dos usuários, garantindo entregas que geram valor, eficiência financeira e crescimento sustentável.
+
+Tenho foco na estruturação de visões de produto, condução de discovery contínuo, priorização orientada por dados e colaboração com times multidisciplinares. Tenho forte atuação em alinhamento estratégico, análise de métricas, gestão de stakeholders e evolução de processos para aumentar performance e maturidade de produto.
+
+Sou movida por desafios, aprendizado contínuo e pela construção de soluções tecnológicas que ampliem impacto e qualidade para usuários e negócios.Entre todas as minhas competências e temas com quais atuo as mais frequentes são:
+• Estratégia e visão de produto
+• Discovery, validação e análise de dados
+• Priorização e gestão de roadmap
+• Liderança de times multidisciplinares
+• Gestão de stakeholders e comunicação executiva
+• Definição de métricas e acompanhamento de resultados
+• Otimização de jornadas e experiências digitais
+• Melhoria contínua e eficiência operacional
+• Eficiência financeira
+
+Vamos de turma realizar o melhor para nossos clientes!
 
 </p>
 
