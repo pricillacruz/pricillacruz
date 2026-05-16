@@ -17,9 +17,6 @@ Quero fazer a diferença no modo de vida das pessoas e no desenvolvimento da soc
 <a href="https://www.linkedin.com/in/pricilla-souza/" target="_blank">
   <img align="left" alt="LinkdeIN" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/pricillacruzs/" target="_blank" >
-  <img align="left" alt="Instagram" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br>
 <br>
